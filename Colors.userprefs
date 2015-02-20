@@ -1,12 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\cubeBehaviour.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\colorScript.cs">
     <Files>
-      <File FileName="Assets\cubeBehaviour.cs" Line="18" Column="3" />
+      <File FileName="Assets\colorScript.cs" Line="21" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Kenneth\Documents\GitHub\Colors\Assets\cubeBehaviour.cs" line="16" />
+      <Breakpoint file="C:\Users\Kenneth\Documents\GitHub\Colors\Assets\cubeBehaviour.cs" line="11" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
